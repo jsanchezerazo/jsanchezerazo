@@ -68,7 +68,15 @@
 </tr>
 </table>
 
-### Publicación
+### Publicaciones
 
-**Digital Polarization Index (DPI): An Operational Framework for Detecting and Characterizing Coordinated Operations in Latin America.**
-Sánchez-Erazo, J. y Cruz-Cárdenas, J. *Informatics* (MDPI), 13(10), 156, 2026 · [doi.org/10.3390/informatics13100156](https://doi.org/10.3390/informatics13100156)
+<p>
+  <a href="https://scholar.google.com/citations?user=BEKL5ZUAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google_Acad%C3%A9mico-perfil-4285F4?style=for-the-badge&labelColor=2B3440&logo=googlescholar&logoColor=white" alt="Google Académico"></a>
+</p>
+
+- **Digital Polarization Index (DPI): An Operational Framework for Detecting and Characterizing Coordinated Operations
+  in Latin America.** Sánchez-Erazo, J. y Cruz-Cárdenas, J. *Informatics* (MDPI), 13(10), 156, 2026 ·
+  [doi.org/10.3390/informatics13100156](https://doi.org/10.3390/informatics13100156)
+- **Analysis of the use of social networks for the decision of the vote in an electoral campaign.** Sánchez Erazo, J.
+  L., Toapanta, S. M., Arévalo, S. A. y otros. *2024 7th World Conference on Computing and Communication Technologies
+  (WCCCT)*, IEEE, 114-118, 2024 · [doi.org/10.1109/wccct60665.2024.10541468](https://doi.org/10.1109/wccct60665.2024.10541468)

@@ -55,12 +55,6 @@
 </td>
 </tr>
 <tr>
-<td width="150"><b>Inteligencia artificial</b></td>
-<td>
-<img src="https://img.shields.io/badge/Integraci%C3%B3n_de_LLM_por_API-6A3FB5?style=for-the-badge" alt="Integración de LLM por API"> <img src="https://img.shields.io/badge/Agentes_con_herramientas-6A3FB5?style=for-the-badge" alt="Agentes con herramientas"> <img src="https://img.shields.io/badge/Ingenier%C3%ADa_de_prompts-6A3FB5?style=for-the-badge" alt="Ingeniería de prompts"> <img src="https://img.shields.io/badge/Procesamiento_por_lotes-6A3FB5?style=for-the-badge" alt="Procesamiento por lotes"> <img src="https://img.shields.io/badge/Embeddings-6A3FB5?style=for-the-badge" alt="Embeddings"> <img src="https://img.shields.io/badge/Procesamiento_de_lenguaje_natural-6A3FB5?style=for-the-badge" alt="Procesamiento de lenguaje natural">
-</td>
-</tr>
-<tr>
 <td width="150"><b>Programación</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-2B3440?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-2B3440?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/pandas-2B3440?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"> <img src="https://img.shields.io/badge/SciPy-2B3440?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"> <img src="https://img.shields.io/badge/statsmodels-2B3440?style=for-the-badge" alt="statsmodels"> <img src="https://img.shields.io/badge/Matplotlib-2B3440?style=for-the-badge" alt="Matplotlib"> <img src="https://img.shields.io/badge/Playwright-2B3440?style=for-the-badge" alt="Playwright"> <img src="https://img.shields.io/badge/FastAPI-2B3440?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Chart.js-2B3440?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"> <img src="https://img.shields.io/badge/HTML5-2B3440?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-2B3440?style=for-the-badge&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-2B3440?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/React-2B3440?style=for-the-badge&logo=react&logoColor=white" alt="React">

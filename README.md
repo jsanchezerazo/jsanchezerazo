@@ -20,6 +20,8 @@
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" align="center"><img src="se.png" width="44" alt=""><br><b>Sanchez Erazo</b></td>
@@ -38,6 +40,8 @@
 <td align="center"><a href="https://polimetrica.lat/contacto/"><img src="https://img.shields.io/badge/Solicite_una_demostraci%C3%B3n-polimetrica.lat-4E7D00?style=for-the-badge&labelColor=2B3440" alt="Solicite una demostración"></a></td>
 </tr>
 </table>
+
+</div>
 
 ### Competencias
 

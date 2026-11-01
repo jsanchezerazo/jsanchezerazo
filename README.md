@@ -57,7 +57,7 @@
 <tr>
 <td width="150"><b>Inteligencia artificial</b></td>
 <td>
-<img src="https://img.shields.io/badge/Modelos_de_lenguaje_%28LLM%29-6A3FB5?style=for-the-badge" alt="Modelos de lenguaje (LLM)"> <img src="https://img.shields.io/badge/Agentes_de_IA-6A3FB5?style=for-the-badge" alt="Agentes de IA"> <img src="https://img.shields.io/badge/Procesamiento_de_lenguaje_natural-6A3FB5?style=for-the-badge" alt="Procesamiento de lenguaje natural"> <img src="https://img.shields.io/badge/Embeddings-6A3FB5?style=for-the-badge" alt="Embeddings"> <img src="https://img.shields.io/badge/An%C3%A1lisis_de_sentimiento-6A3FB5?style=for-the-badge" alt="Análisis de sentimiento">
+<img src="https://img.shields.io/badge/Integraci%C3%B3n_de_LLM_por_API-6A3FB5?style=for-the-badge" alt="Integración de LLM por API"> <img src="https://img.shields.io/badge/Agentes_con_herramientas-6A3FB5?style=for-the-badge" alt="Agentes con herramientas"> <img src="https://img.shields.io/badge/Ingenier%C3%ADa_de_prompts-6A3FB5?style=for-the-badge" alt="Ingeniería de prompts"> <img src="https://img.shields.io/badge/Procesamiento_por_lotes-6A3FB5?style=for-the-badge" alt="Procesamiento por lotes"> <img src="https://img.shields.io/badge/Embeddings-6A3FB5?style=for-the-badge" alt="Embeddings"> <img src="https://img.shields.io/badge/Procesamiento_de_lenguaje_natural-6A3FB5?style=for-the-badge" alt="Procesamiento de lenguaje natural">
 </td>
 </tr>
 <tr>

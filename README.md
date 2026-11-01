@@ -55,16 +55,32 @@ Inteligencia digital a la medida para gobiernos, empresas, organismos y campaña
 
 ### Competencias
 
-<p>
-  <img src="https://img.shields.io/badge/Comunicaci%C3%B3n_pol%C3%ADtica-1F4E8C?style=flat-square" alt="Comunicación política">
-  <img src="https://img.shields.io/badge/Estrategia_electoral-1F4E8C?style=flat-square" alt="Estrategia electoral">
-  <img src="https://img.shields.io/badge/Big_Data-5A8F00?style=flat-square" alt="Big Data">
-  <img src="https://img.shields.io/badge/Inteligencia_digital-5A8F00?style=flat-square" alt="Inteligencia digital">
-  <img src="https://img.shields.io/badge/Inteligencia_artificial_aplicada-5A8F00?style=flat-square" alt="Inteligencia artificial aplicada">
-  <img src="https://img.shields.io/badge/An%C3%A1lisis_territorial-B08A10?style=flat-square" alt="Análisis territorial">
-  <img src="https://img.shields.io/badge/Data_storytelling-B08A10?style=flat-square" alt="Data storytelling">
-  <img src="https://img.shields.io/badge/Python-2B3440?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
+<table>
+<tr>
+<td width="150"><b>Consultoría</b></td>
+<td>
+<img src="https://img.shields.io/badge/Comunicaci%C3%B3n_pol%C3%ADtica-1F4E8C?style=for-the-badge" alt="Comunicación política"> <img src="https://img.shields.io/badge/Estrategia_electoral-1F4E8C?style=for-the-badge" alt="Estrategia electoral"> <img src="https://img.shields.io/badge/Marca_gubernamental-1F4E8C?style=for-the-badge" alt="Marca gubernamental">
+</td>
+</tr>
+<tr>
+<td width="150"><b>Datos e inteligencia</b></td>
+<td>
+<img src="https://img.shields.io/badge/Big_Data-4E7D00?style=for-the-badge" alt="Big Data"> <img src="https://img.shields.io/badge/Inteligencia_digital-4E7D00?style=for-the-badge" alt="Inteligencia digital"> <img src="https://img.shields.io/badge/IA_aplicada-4E7D00?style=for-the-badge" alt="IA aplicada"> <img src="https://img.shields.io/badge/An%C3%A1lisis_territorial-4E7D00?style=for-the-badge" alt="Análisis territorial"> <img src="https://img.shields.io/badge/Data_storytelling-4E7D00?style=for-the-badge" alt="Data storytelling">
+</td>
+</tr>
+<tr>
+<td width="150"><b>Programación</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-2B3440?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pandas-2B3440?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"> <img src="https://img.shields.io/badge/Matplotlib-2B3440?style=for-the-badge" alt="Matplotlib"> <img src="https://img.shields.io/badge/Playwright-2B3440?style=for-the-badge" alt="Playwright"> <img src="https://img.shields.io/badge/Chart.js-2B3440?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"> <img src="https://img.shields.io/badge/HTML5-2B3440?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-2B3440?style=for-the-badge&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-2B3440?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+</td>
+</tr>
+<tr>
+<td width="150"><b>Despliegue</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-2B3440?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2B3440?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-2B3440?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-2B3440?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+</td>
+</tr>
+</table>
 
 ### Publicación
 

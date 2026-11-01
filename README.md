@@ -22,34 +22,20 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3><img src="se.png" width="26" align="top" alt=""> Sanchez Erazo</h3>
-
-Firma de consultoría en comunicación política y gubernamental.
-
-- Estrategia digital política
-- Gestión de marca gubernamental
-- Consultoría en comunicación corporativa
-
-<a href="https://sanchezerazo.com"><img src="https://img.shields.io/badge/Visite_la_firma-sanchezerazo.com-1F4E8C?style=flat-square&labelColor=2B3440" alt="Visite la firma"></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><img src="pm.png" width="26" align="top" alt=""> Polimétrica</h3>
-
-Inteligencia digital a la medida para gobiernos, empresas, organismos y campañas.
-
-- Inteligencia digital
-- Inteligencia electoral
-- Sondeos digitales
-- Reputación y crisis
-- Estrategia digital
-
-<a href="https://polimetrica.lat/contacto/"><img src="https://img.shields.io/badge/Solicite_una_demostraci%C3%B3n-polimetrica.lat-5A8F00?style=flat-square&labelColor=2B3440" alt="Solicite una demostración"></a>
-
-</td>
+<td width="50%" align="center"><img src="se.png" width="44" alt=""><br><b>Sanchez Erazo</b></td>
+<td width="50%" align="center"><img src="pm.png" width="44" alt=""><br><b>Polimétrica</b></td>
+</tr>
+<tr>
+<td align="center"><i>Consultoría en comunicación política y gubernamental</i></td>
+<td align="center"><i>Inteligencia digital a la medida</i></td>
+</tr>
+<tr>
+<td align="center" valign="top">Estrategia digital política<br>Gestión de marca gubernamental<br>Consultoría en comunicación corporativa</td>
+<td align="center" valign="top">Inteligencia digital<br>Inteligencia electoral<br>Sondeos digitales<br>Reputación y crisis<br>Estrategia digital</td>
+</tr>
+<tr>
+<td align="center"><a href="https://sanchezerazo.com"><img src="https://img.shields.io/badge/Visite_la_firma-sanchezerazo.com-1F4E8C?style=for-the-badge&labelColor=2B3440" alt="Visite la firma"></a></td>
+<td align="center"><a href="https://polimetrica.lat/contacto/"><img src="https://img.shields.io/badge/Solicite_una_demostraci%C3%B3n-polimetrica.lat-4E7D00?style=for-the-badge&labelColor=2B3440" alt="Solicite una demostración"></a></td>
 </tr>
 </table>
 

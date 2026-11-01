@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td align="center"><i>Consultoría en comunicación política y gubernamental</i></td>
-<td align="center"><i>Inteligencia digital, electoral y gestión de reputación</i></td>
+<td align="center"><i>Inteligencia digital, electoral y de opinión pública, con gestión de reputación</i></td>
 </tr>
 <tr>
 <td align="center" valign="top">Estrategia digital política<br>Gestión de marca gubernamental<br>Consultoría en comunicación corporativa</td>

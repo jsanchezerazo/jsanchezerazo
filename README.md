@@ -63,7 +63,7 @@
 <tr>
 <td width="150"><b>Despliegue</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-2B3440?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2B3440?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-2B3440?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-2B3440?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Git-9A6B00?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-9A6B00?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-9A6B00?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-9A6B00?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </td>
 </tr>
 </table>
